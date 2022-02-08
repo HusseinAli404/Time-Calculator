@@ -1,4 +1,4 @@
-# Python Scientific Computing with Python Projects 
+# Scientific Computing with Python Projects 
 
 Time Calculator assignment for [**FreeCodeCamp**][freecodecamp-url]. The section below explains all of the steps required to complete this assignment.
 
