@@ -5,8 +5,6 @@ Time Calculator assignment for [**FreeCodeCamp**][freecodecamp-url]. The section
 
 Full Documentation: [**Documentation**][documentation-link]
 
-**Live Demo**: [**REPL**][repl-link] 
-
 
 
 
@@ -61,4 +59,3 @@ Copy your project's URL and submit it to freeCodeCamp.
 
 [freecodecamp-url]: https://www.freecodecamp.org/
 [documentation-link]: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
-[repl-link]: https://repl.it/@cbedroid/boilerplate-time-calculator#time_calculator.py
